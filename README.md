@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, ich bin Bousaina Ghadhab
 
-<!--
-**Bousaina1/Bousaina1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Umschulung zum Fachinformatiker in Daten- & Prozessanalyse  
+📍 Hamburg | Abschluss: Juni 2027  
+🔍 Auf der Suche nach einem Praktikum ab September 2025
 
-Here are some ideas to get you started:
+## 🛠️ Tech-Stack
+`Python` · `SQL` · `Pandas` · `Matplotlib` · `Excel`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projekte
+Alle Projekte findest du unten, kleine, saubere
+Analysen aus echten Datensätzen.
+
+## 📫 Kontakt
+https://www.linkedin.com/in/bousaina-ghadhab-20732a3b0/ · b.ghadhab@edu.bbq.de
