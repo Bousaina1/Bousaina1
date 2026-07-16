@@ -12,7 +12,7 @@
 
 Ich befinde mich aktuell in der Umschulung zur **Fachinformatikerin für Daten- und Prozessanalyse** bei BBQ Hamburg. Mein Abschluss ist für **Juni 2027** geplant.
 
-Mein fachlicher Hintergrund liegt in der **Medizintechnik / Biomedizintechnik**. Dadurch bringe ich technisches Verständnis, Genauigkeit und Interesse an strukturierten Prozessen mit – insbesondere in Bereichen wie Medizingerätetechnik, Qualitätsmanagement und praxisnahen Abläufen.
+Mein fachlicher Hintergrund liegt in der **Medizintechnik / Biomedizintechnik**. Dadurch bringe ich technisches Verständnis, Genauigkeit und Interesse an strukturierten Prozessen mit, insbesondere in Bereichen wie Medizingerätetechnik, Qualitätsmanagement und praxisnahen Abläufen.
 
 Heute verbinde ich diesen Hintergrund mit neuen Kompetenzen in **Datenanalyse, Prozessanalyse, SQL, Excel, Power BI und Python**.
 
