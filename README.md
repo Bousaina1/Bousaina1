@@ -9,6 +9,9 @@ Python · Pandas · Matplotlib · SQL · SQLite · Power BI · Git · GitHub
 
 ---
 
+## Zertifikate
+- Linux Essentials – LPI
+  
 ## Projekte
 | Projekt | Beschreibung | Stack |
 |---|---|---|
@@ -19,4 +22,4 @@ Python · Pandas · Matplotlib · SQL · SQLite · Power BI · Git · GitHub
 
 ## Hintergrund
 Dipl.-Ing. Medizintechnik (HAW Hamburg) · Umschulung Fachinformatikerin Daten- & Prozessanalyse bei BBQ Hamburg · Abschluss Juni 2027  
-Pflichtpraktikum ab September 2026 · NDR Hamburg
+Pflichtpraktikum ab September 2026 · NDR Hamburg (PTIM)
