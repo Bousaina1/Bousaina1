@@ -16,7 +16,7 @@ Python · Pandas · Matplotlib · SQL · SQLite · Power BI · Git · GitHub
 | Projekt | Beschreibung | Stack |
 |---|---|---|
 | [HVV Netzstruktur-Analyse](https://github.com/Bousaina1/hvv-network-analysis) | Takt- und Knotenpunktanalyse auf Basis von GTFS-Fahrplandaten | Python, Pandas, SQLite, Matplotlib |
-| Crypto Dashboard | Automatisierte Preissammlung + Power BI Visualisierung | Python, Flask, MariaDB, Power BI |
+| Crypto Dashboard *(coming soon)*| Automatisierte Preissammlung + Power BI Visualisierung | Python, Flask, MariaDB, Power BI |
 
 ---
 
