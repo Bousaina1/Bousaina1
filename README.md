@@ -1,25 +1,39 @@
-# Bousaina Ghadhab
-**Daten- & Prozessanalyse | Python · SQL · Power BI**  
+# Bousaina Ghadhab  
+Fachinformatikerin für Daten- und Prozessanalyse (in Umschulung)
+
 Hamburg · [LinkedIn](https://www.linkedin.com/in/bousaina-ghadhab-20732a3b0/)
 
----
+## Profil
+Umschulung zur Fachinformatikerin für Daten- und Prozessanalyse (Abschluss Juni 2027, BBQ Hamburg).  
+Hintergrund: Diplom-Ingenieurin Medizintechnik (HAW Hamburg).  
+Fokus: Datenanalyse, Prozessanalyse, SQL, Excel, Power BI, Python.  
+Ich verbinde technisches Verständnis aus der Medizintechnik mit strukturierten, datengetriebenen Ansätzen – besonders spannend für BI, Reporting und prozessnahe Analysen.
 
-## Tech Stack
-Python · Pandas · Matplotlib · SQL · SQLite · Power BI · Git · GitHub
+## Aktueller Schwerpunkt
+
+| Gebiet | Praktischer Fokus |
+|---|---|
+| Python & Datenworkflows | pandas, Matplotlib, API-Erfassung, CSV/JSON, reproduzierbare Analyse |
+| SQL & Datenmodellierung | Relationale DBs, Joins, Aggregation, SQLite, MariaDB |
+| Business Intelligence | Power BI Dashboards, KPIs, Berichtslogik |
+| Infrastruktur | Flask API, Git/GitHub |
 
 ---
 
 ## Zertifikate
+
 - Linux Essentials – LPI
+- EXIN Agile Scrum Master
+- EXIN Agile Product Owner Bridge
   
 ## Projekte
-| Projekt | Beschreibung | Stack |
-|---|---|---|
-| [HVV Netzstruktur-Analyse](https://github.com/Bousaina1/hvv-network-analysis) | Takt- und Knotenpunktanalyse auf Basis von GTFS-Fahrplandaten | Python, Pandas, SQLite, Matplotlib |
-| Crypto Dashboard *(coming soon)*| Automatisierte Preissammlung + Power BI Visualisierung | Python, Flask, MariaDB, Power BI |
+- [HVV Netzstruktur-Analyse](https://github.com/Bousaina1/hvv-network-analysis)  
+  Takt- und Knotenpunktanalyse des HVV auf Basis von GTFS-Fahrplandaten  
+  Fragen: Wo fährt der ÖPNV am engsten getaktet? Welche Haltestellen sind die wichtigsten Knoten?  
+  Stack: Python, Pandas, SQLite, Matplotlib
+
 
 ---
 
-## Hintergrund
-Dipl.-Ing. Medizintechnik (HAW Hamburg) · Umschulung Fachinformatikerin Daten- & Prozessanalyse bei BBQ Hamburg · Abschluss Juni 2027  
+## Praktikum
 Pflichtpraktikum ab September 2026 · NDR Hamburg (PTIM)
