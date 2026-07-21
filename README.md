@@ -34,7 +34,7 @@ Single Points of Failure im Netz.
 ---
 
 ## Zertifikate
-- Linux Essentials – LPI
+- Linux Essentials: LPI
 - EXIN Agile Scrum Master
 - EXIN Agile Product Owner Bridge
 
